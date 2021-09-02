@@ -1,0 +1,71 @@
+body, html{
+    background-color:rgb(168, 158, 158) ;
+    width: 100%;
+    height: 100%;
+    font-size: 120%;    
+}
+
+h1{
+    color: lightskyblue;
+    text-shadow: 6px 4px black;
+}
+.contenedor{
+    width: 100%;
+    height: 100%;
+}
+
+.MenuBuscador{
+    width: 100%;
+    height: 20%;
+}
+
+.tablaSelect{
+    float: left;
+    margin-left: 10px
+}
+.CajaMostrar{
+    float: left;
+}
+
+
+.margenRegistro{
+    margin-left: 10px;
+    float: left;
+}
+.PosicionCampoTexto{
+    float: right;
+}
+
+.TextoBuscador{
+    float: right;
+    margin-right: 10px;
+}
+.tabla{
+    width: 100%;
+    height: 60%;
+}
+table.info tr th, table.info tr td{
+    
+    border:1px solid black;
+    text-align: center;
+    
+    font-weight: bold;
+}
+table.info{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: whitesmoke;
+    margin:auto;
+    
+}
+.botonSiguiente{
+    float: right;
+    margin-top: 1%;
+}
+.posicionT{
+    float: right;
+    margin-top: 1%;
+}
+footer{
+    margin-top: 1%;
+}
